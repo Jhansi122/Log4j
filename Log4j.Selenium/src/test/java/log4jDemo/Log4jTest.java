@@ -15,7 +15,7 @@ public class Log4jTest
 @Test
  public void logger() {
 	Logger log = Logger.getLogger(Log4jTest.class);
-	PropertyConfigurator.configure("log4j.properties");
+	PropertyConfigurator.configure("C:\\Users\\JHANSI\\git\\log4j\\Log4j.Selenium\\src\\main\\resources\\log4j.properties");
 	System.setProperty("webdriver.gecko.driver","C:\\Program Files\\Selenium\\Geckodriver\\geckodriver.exe\\");
 	driver= new FirefoxDriver();
 	log.info("Webbrowser Started");

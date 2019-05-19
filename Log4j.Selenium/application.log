@@ -10,3 +10,27 @@
 2018-12-20 17:48:52,134  INFO [main] Log4jTest:23 - URL Opened
 2018-12-20 17:48:52,144  WARN [main] Log4jTest:25 - waiting for the webpage to load
 2018-12-20 17:48:53,491  INFO [main] Log4jTest:27 - Driver closed
+2018-12-27 21:06:57,213  INFO [main] Log4jTest:21 - Webbrowser Started
+2018-12-27 21:06:59,711  INFO [main] Log4jTest:23 - URL Opened
+2018-12-27 21:06:59,742  WARN [main] Log4jTest:25 - waiting for the webpage to load
+2018-12-27 21:07:01,578  INFO [main] Log4jTest:27 - Driver closed
+2019-02-22 11:10:23,375  INFO [main] Log4jTest:21 - Webbrowser Started
+2019-02-22 11:10:34,590  INFO [main] Log4jTest:23 - URL Opened
+2019-02-22 11:10:34,622  WARN [main] Log4jTest:25 - waiting for the webpage to load
+2019-02-22 11:10:38,164  INFO [main] Log4jTest:27 - Driver closed
+2013-01-04 00:06:27,714  INFO [main] Log4jTest:21 - Webbrowser Started
+2013-01-04 00:06:38,236  INFO [main] Log4jTest:23 - URL Opened
+2013-01-04 00:06:38,268  WARN [main] Log4jTest:25 - waiting for the webpage to load
+2013-01-04 00:06:39,856  INFO [main] Log4jTest:27 - Driver closed
+2019-05-19 18:59:26,376  INFO [main] Log4jTest:21 - Webbrowser Started
+2019-05-19 18:59:29,848  INFO [main] Log4jTest:23 - URL Opened
+2019-05-19 18:59:29,924  WARN [main] Log4jTest:25 - waiting for the webpage to load
+2019-05-19 18:59:32,158  INFO [main] Log4jTest:27 - Driver closed
+2019-05-19 19:00:47,490  INFO [main] Log4jTest:21 - Webbrowser Started
+2019-05-19 19:00:50,054  INFO [main] Log4jTest:23 - URL Opened
+2019-05-19 19:00:50,082  WARN [main] Log4jTest:25 - waiting for the webpage to load
+2019-05-19 19:00:52,399  INFO [main] Log4jTest:27 - Driver closed
+2019-05-19 19:02:10,975  INFO [main] Log4jTest:21 - Webbrowser Started
+2019-05-19 19:02:18,188  INFO [main] Log4jTest:23 - URL Opened
+2019-05-19 19:02:18,199  WARN [main] Log4jTest:25 - waiting for the webpage to load
+2019-05-19 19:02:19,622  INFO [main] Log4jTest:27 - Driver closed
